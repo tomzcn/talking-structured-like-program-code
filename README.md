@@ -1,6 +1,6 @@
 talking structured like program code
 
-The current nested pure structured documentation tools is <a href="https://witheve.com">eve language</a> and the title of <a href="https://roamresearch.com">roam research</a>. <a href="https://rebol.com">rebol</a> is a great looking programming language. It eliminates a lot of symbols. So I was inspired by robol to make improvements.
+The current nested pure structured documentation tools is <a href="https://witheve.com">eve language</a> and the title of <a href="https://roamresearch.com">roam research</a>. <a href="http://www.rebol.com">rebol</a> is a great looking programming language. It eliminates a lot of symbols. So I was inspired by robol to make improvements.
 
 Currently I translate the rebol form of the language into the eve form. This allows structured queries to be made with eve.
 
@@ -9,6 +9,8 @@ Operation is as follows.
 1. open file "toeve.html" in browser.
 
 2. click "r2e".
+
+![1.pic](1.PNG)
 
 3. copy the "out".
 
@@ -55,5 +57,7 @@ commit
 12. click "✓"
 
 13. This way you can see the query results in 1.eve.exe
+
+![2.pic](2.PNG)
 
 
