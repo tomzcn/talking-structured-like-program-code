@@ -1,6 +1,6 @@
 talking structured like program code
 
-The current nested pure structured documentation tools is <a href="witheve.com">eve language</a> and the title of <a href="roamresearch.com">roam research</a>. <a href="rebol.com">rebol</a> is a great looking programming language. It eliminates a lot of symbols. So I was inspired by robol to make improvements.
+The current nested pure structured documentation tools is <a href="https://witheve.com">eve language</a> and the title of <a href="https://roamresearch.com">roam research</a>. <a href="https://rebol.com">rebol</a> is a great looking programming language. It eliminates a lot of symbols. So I was inspired by robol to make improvements.
 
 Currently I translate the rebol form of the language into the eve form. This allows structured queries to be made with eve.
 
