@@ -4,7 +4,7 @@ The current nested pure structured documentation tools is <a href="https://withe
 
 Currently I translate the rebol form of the language into the eve form. This allows structured queries to be made with eve.
 
-Operation is as follows.
+## Operation is as follows
 
 1. open file <a href="https://tomzcn.github.io/talking-structured-like-program-code/toeve.html">"toeve.html"</a> in browser.
 
@@ -60,4 +60,9 @@ commit
 
 ![2.pic](https://tomzcn.github.io/talking-structured-like-program-code/2.PNG)
 
+## Syntax
+
+$ means this is a function name.
+
+The number after $ is the priority.
 
