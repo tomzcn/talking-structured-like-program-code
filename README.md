@@ -10,7 +10,7 @@ Operation is as follows.
 
 2. click "r2e".
 
-![1.pic](1.PNG)
+![1.pic](https://tomzcn.github.io/talking-structured-like-program-code/1.PNG)
 
 3. copy the "out".
 
@@ -58,6 +58,6 @@ commit
 
 13. This way you can see the query results in 1.eve.exe
 
-![2.pic](2.PNG)
+![2.pic](https://tomzcn.github.io/talking-structured-like-program-code/2.PNG)
 
 
