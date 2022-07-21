@@ -6,7 +6,7 @@ Currently I translate the rebol form of the language into the eve form. This all
 
 Operation is as follows.
 
-1. open file "toeve.html" in browser.
+1. open file <a href="https://tomzcn.github.io/talking-structured-like-program-code/toeve.html">"toeve.html"</a> in browser.
 
 2. click "r2e".
 
