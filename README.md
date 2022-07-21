@@ -62,6 +62,8 @@ commit
 
 ## Syntax
 
+the "function" at the start of sentence indicates that this is a template.
+
 $ means this is a function name.
 
 The number after $ is the priority.
